@@ -1,0 +1,10 @@
+{
+    "name" : "docker_nodejs_server",
+    "version": "1.0.0",
+    "description": "Nodejs server",
+    "author": "David Wybourn",
+    "main": "WorldServer.js",
+    "scripts": {
+        "start": "node WorldServer.js"
+    }
+}

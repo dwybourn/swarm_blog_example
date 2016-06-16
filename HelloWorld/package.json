@@ -1,0 +1,14 @@
+{
+  "name": "docker_nodejs_server",
+  "version": "1.0.0",
+  "description": "Nodejs server",
+  "author": "David Wybourn",
+  "main": "HelloWorldServer.js",
+  "scripts": {
+    "start": "node HelloWorldServer.js"
+  },
+  "dependencies": {
+    "node-rest-client": "^1.0.0",
+    "q": "~1.4.1"
+  }
+}
